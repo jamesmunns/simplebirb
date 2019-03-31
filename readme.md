@@ -31,17 +31,19 @@ This specification currently represents `v0.1.0` of SimpleBirb.
 
 The content of the following files are described below.
 
-* root
-| - me
+```
+* root/
+\ - me/
 |  \ - about.json
 |  | - subscriptions.xml
-| - posts
+| - posts/
    \ - folder
    | \ - farewell-january.md
    | | - so-long-february.md
    | - feed.xml
    | - goodbye-march.md
    | - hello-april.md
+```
 
 ### `me/about.json`
 
